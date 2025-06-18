@@ -1,14 +1,14 @@
-📊 Twitter Sentiment Analysis
+# 📊 Twitter Sentiment Analysis
 A machine learning project that performs sentiment analysis on Twitter data using Natural Language Processing (NLP). The goal is to classify tweets into positive, negative, or neutral sentiments based on their textual content.
 
-🔍 Features
+# 🔍 Features
 Real-time tweet scraping using Tweepy or CSV dataset loading
 
-Data preprocessing (cleaning, tokenization, stopword removal, lemmatization)
+## Data preprocessing (cleaning, tokenization, stopword removal, lemmatization)
 
-Visualizations: WordClouds, bar plots, pie charts
+## Visualizations: WordClouds, bar plots, pie charts
 
-Sentiment classification using:
+# Sentiment classification using:
 
 Logistic Regression
 
@@ -20,7 +20,7 @@ Model evaluation (accuracy, confusion matrix, classification report)
 
 Deployment-ready code (Flask app or Streamlit UI)
 
-🧰 Technologies Used
+# 🧰 Technologies Used
 Python 🐍
 
 Pandas, NumPy
@@ -33,7 +33,7 @@ Matplotlib, Seaborn
 
 Jupyter Notebook
 
-📁 Project Structure
+# 📁 Project Structure
 bash
 Copy
 Edit
